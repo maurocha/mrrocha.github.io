@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Maurício R. Rocha / Site Title"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Maurício R. Rocha"
+description              : &description "Ph.D. Candidate in Physical Oceanography"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -23,18 +23,18 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  pronouns         : # example: "he/his"  
+  bio              : "I have a bachelor's degree in oceanography from the Federal University of Bahia, Brazil, and a master's degree in meteorology from the Federal University of Campina Grande, Brazil. I am a Ph.D. candidate in physical oceanography at the University of São Paulo's Oceanographic Institute, Brazil, with an Exchange Program as a Fulbright Scholar at the National Center for Atmospheric Research, USA. My current research topic is the variability and long-term trends of the heat balance's components and Atlantic Meridional Overturning Circulation from large ensembles for different climate scenarios. In addition, I also investigate the interplay between the Intertropical Convergence Zone and the surface circulation in the tropical Atlantic."
+  location         : "Brazil"
+  employer         : "University of São Paulo"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "mauricio.rocha@usp.br" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-7370-3079"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 
